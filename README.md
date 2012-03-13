@@ -33,3 +33,5 @@ Below is an example of the packages.bootstrap file:
 		<package id="Unity" version="2.1.505.0" />
 		<package id="jQuery" version="1.7.1" />
 	</packages>
+	
+When the (current) script is ran and finds this file, it'll install the 4 packages automatically for you.  In addition, it'll properly add the references to the project file and run any scripts the packages contain that add/update files of the project (i.e. jQuery adds the Scripts directory and adds 3 jQuery scripts into it.).
