@@ -35,3 +35,7 @@ Below is an example of the packages.bootstrap file:
 	</packages>
 	
 When the (current) script is ran and finds this file, it'll install the 4 packages automatically for you.  In addition, it'll properly add the references to the project file and run any scripts the packages contain that add/update files of the project (i.e. jQuery adds the Scripts directory and adds 3 jQuery scripts into it.).
+
+## Contributors
+[James Eggers](https://github.com/jameseggers1)
+[Joshua Poehls](https://github.com/jpoehls)
