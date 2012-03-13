@@ -10,10 +10,10 @@ The packages.bootstrap file should be located in the project directory for which
 
 Below is an example of the packages.bootstrap file:
 
-'<?xml version="1.0" encoding="utf-8"?>
+`<?xml version="1.0" encoding="utf-8"?>
 <packages>
 	<package id="Moq" version="4.0.10827" />
 	<package id="ShouldFluent" version="1.1.12.0" />
 	<package id="Unity" version="2.1.505.0" />
 	<package id="jQuery" version="1.7.1" />
-</packages>'
+</packages>`
